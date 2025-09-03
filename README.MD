@@ -62,6 +62,8 @@ Este projeto foi desenvolvido guiado por um tutorial do canal DevClub | Programa
 - Consumir APIs e lidar com estados como loading e erro.
 - Construir uma interface simples e intuitiva.
 
+Mais informações e conteudo dos conceitos no [Notion](https://devclub.notion.site/85-Desenvolvendo-seu-primeiro-App-Mobile-1df3f245f933804997c1c08395506fc2)
+
 ## Próximos Passos (O que pode ser incrementado)
 
 - Adicionar múltiplas taxas e gráficos de histórico de câmbio.
